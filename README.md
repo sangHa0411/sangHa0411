@@ -13,8 +13,8 @@
   - Tmax AI : 2022.01 ~ , Search Engine Researcher 
   
 - Computer Skills 
-  - Programming Language : python
-  - Framework : tensorflow, pytorch
+  - Programming Language : Python
+  - Framework : Tensorflow, Pytorch
   - Main Interst : AI, NLP
   - Current Learning : Java & Backend programming
   
