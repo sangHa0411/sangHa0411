@@ -7,7 +7,7 @@
   
 - #### Eductaion
   - Degreee : 2014.03 ~ 2021.02, Bachelor's degree at Ajou University (Electronic Engineering)
-  - Other : 2021.8 ~ 2021.12, 2nd Naver AI Boostcamp NLP Course 
+  - Other : 2021.8 ~ 2021.12, 2nd Naver AI Boostcamp - NLP Course 
   
 - #### Work Experience
   - Tmax AI : 2022.01 ~ , Search Engine Researcher 
