@@ -30,6 +30,9 @@
   - Algorithm
     - 2023.06.09 우리 FIS 주최, 우리 코딩 페스티벌 : 특별상🎖
 
+- #### Leaderboard
+    - [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/), 2023.06.27 ~ 현재, 1등
+  
 - #### Portfolio
   - https://big-novel-151.notion.site/ee3e0d8a6890445e9597aa95d5fe1eea
   
