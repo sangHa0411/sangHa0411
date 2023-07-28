@@ -17,7 +17,7 @@
   - Programming Language : Python
   - Framework : Tensorflow, Pytorch
   - Main Interst : AI, NLP
-  - Current Learning : Kubernets, MLOps
+  - Current Learning : MRC, QA
   
 - #### Awards
   - NLP
