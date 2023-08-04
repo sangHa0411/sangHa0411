@@ -38,7 +38,6 @@
   
 - #### Certificate 
   - KT AIFB associate 
-  - PCCP(Programmers Certified Coding Professional) Level 3
 
 - #### BOJ
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrtkd222)](https://solved.ac/wkrtkd222/)
