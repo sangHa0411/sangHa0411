@@ -41,7 +41,7 @@
   - PCCP(Programmers Certified Coding Professional) Level 3
 
 - #### BOJ
-  - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrtkd222)](https://solved.ac/wkrtkd222/)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrtkd222)](https://solved.ac/wkrtkd222/)
 
 <!--
 **sangHa0411/sangHa0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
