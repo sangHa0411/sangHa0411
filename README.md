@@ -34,7 +34,8 @@
   - https://big-novel-151.notion.site/ee3e0d8a6890445e9597aa95d5fe1eea
 
 - #### Leaderboard
-  - [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/) : 순위 : 1등 | 기간 : 2023.06.27 ~ | 역할 : Model Finetuning 
+  - [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/) : 순위 : 1등 | 기간 : 2023.06.27 ~ | 역할 : Model Post-Training & Finetuning 
+  - [KorQuAD 2.0](https://korquad.github.io) : 순위 : 1등 | 기간 : 2023.10.28 ~ | 역할 : Model Post-Training & Finetuning 
   
 - #### Certificate 
   - KT AIFB associate 
