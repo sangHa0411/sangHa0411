@@ -11,8 +11,8 @@
   
 - #### Work Experience
   - Tmax AI : 2022.01.01 ~ 09.29, Search Engine Researcher 
-  - LG AI Research : 2022.02.27 ~ 2023.02.27, Exaone Lab Intern
-  - LG AI Research : 2023.02.28 ~, Exaone Lab Residency
+  - LG AI Research : 2022.02.27 ~ 2023.02.27, EXAONE Lab Intern
+  - **LG AI Research : 2023.02.28 ~, EXAONE Lab Residency**
 
 - #### Computer Skills 
   - Programming Language : Python
