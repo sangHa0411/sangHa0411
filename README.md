@@ -18,7 +18,7 @@
   - Programming Language : Python
   - Framework : Jax/Flax, Pytorch
   - Main Interst : AI, NLP
-  - Current Learning : Long Context LLM, NeMo Framework
+  - **Current Learning : Long Context LLM, NeMo Framework**
   
 - #### Awards
   - NLP
