@@ -31,7 +31,7 @@
   - Algorithm
     - 2023.06.09 우리 FIS 주최, 우리 코딩 페스티벌 : 특별상🎖
   
-- ### Publication
+- #### Publication
   - [EXAONE 3.0 7.8B Instruction Tuned Language Model](https://www.arxiv.org/pdf/2408.03541)
 
 - #### Leaderboard
