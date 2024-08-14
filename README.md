@@ -16,9 +16,9 @@
 
 - #### Computer Skills 
   - Programming Language : Python
-  - Framework : Jax/Flax, Pytorch
+  - Framework : Pytorch
   - Main Interst : AI, NLP
-  - **Current Learning : Long Context LLM, NeMo Framework**
+  - **Current Learning : Long Context LLM, [NeMo](https://github.com/NVIDIA/NeMo) Framework**
   
 - #### Awards
   - NLP
