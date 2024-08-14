@@ -30,13 +30,13 @@
     - 2022.12.12 ~ 2022.12.23 성균관대학교 주최, 문장 유형 분류 AI 경진대회 : 장려상🎖
   - Algorithm
     - 2023.06.09 우리 FIS 주최, 우리 코딩 페스티벌 : 특별상🎖
-    
-- #### Portfolio
-  - https://big-novel-151.notion.site/ee3e0d8a6890445e9597aa95d5fe1eea
+  
+- ### Publication
+  - [EXAONE 3.0 7.8B Instruction Tuned Language Model](https://www.arxiv.org/pdf/2408.03541)
 
 - #### Leaderboard
   - [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/) : 순위 : 1등 | 기간 : 2023.06.27 ~ | 역할 : Model Post-Training & Finetuning 
-  - [KorQuAD 2.0](https://korquad.github.io) : 순위 : 1등 | 기간 : 2023.10.28 ~ | 역할 : Model Post-Training & Finetuning 
+  - [KorQuAD 2.0](https://korquad.github.io) : 순위 : 1등 | 기간 : 2023.10.28 ~ | 역할 : Model Post-Training & Finetuning
   
 - #### Certificate 
   - KT AIFB associate 
