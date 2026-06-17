@@ -2,7 +2,6 @@
 
 - #### profile
   - Name : Park SangHa
-  - Birth Date : 1995/04/11
   - Email : sangha110495@gmail.com
   
 - #### Eductaion
@@ -11,15 +10,10 @@
   
 - #### Work Experience
   - Tmax AI : 2022.01.01 ~ 09.29, Search Engine Researcher 
-  - LG AI Research : 2022.02.27 ~ 2023.02.27, EXAONE Lab Intern
-  - **LG AI Research : 2023.02.28 ~, EXAONE Lab Residency**
-
-- #### Computer Skills 
-  - Programming Language : Python
-  - Framework : Pytorch
-  - Main Interst : AI, NLP
-  - **Current Learning : Long Context LLM, [NeMo](https://github.com/NVIDIA/NeMo) Framework**
-  
+  - LG AI Research : 2023.02.27 ~ 2024.01.01, EXAONE Lab Intern
+  - LG AI Research : 2024.01.01 ~ 2024.12.12, EXAONE Lab Residency
+  - LG AI Research : 2025.01.01 ~, EXAONE Lab Researcher
+  - 
 - #### Awards
   - NLP
     - 2022.01.28 ~ 2022.02.28 데이콘 주최, 한국어 문장 관계 분류 대회 : 입상🎖
@@ -28,18 +22,10 @@
     - 2022.06.07 ~ 2022.06.27 과학기술정보통신부 주최, 2022 인공지능 온라인 경진대회 기계독해 부분 : 2등🥈
     - 2022.08.10 ~ 2022.09.16 ETRI 주최, 2022 FASHION-HOW 자율성장 인공지능 대회 : 종합우승🥇
     - 2022.12.12 ~ 2022.12.23 성균관대학교 주최, 문장 유형 분류 AI 경진대회 : 장려상🎖
-  - Algorithm
-    - 2023.06.09 우리 FIS 주최, 우리 코딩 페스티벌 : 특별상🎖
-  
-- #### Publication
-  - [EXAONE 3.0 7.8B Instruction Tuned Language Model](https://www.arxiv.org/pdf/2408.03541)
 
 - #### Leaderboard
   - [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/) : 순위 : 1등 | 기간 : 2023.06.27 ~ | 역할 : Model Post-Training & Finetuning 
   - [KorQuAD 2.0](https://korquad.github.io) : 순위 : 1등 | 기간 : 2023.10.28 ~ | 역할 : Model Post-Training & Finetuning
-  
-- #### Certificate 
-  - KT AIFB associate 
 
 - #### BOJ
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrtkd222)](https://solved.ac/wkrtkd222/)
