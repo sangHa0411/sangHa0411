@@ -13,7 +13,7 @@
   - LG AI Research : 2023.02.27 ~ 2024.01.01, EXAONE Lab Intern
   - LG AI Research : 2024.01.01 ~ 2024.12.12, EXAONE Lab Residency
   - LG AI Research : 2025.01.01 ~, EXAONE Lab Researcher
-  - 
+
 - #### Awards
   - NLP
     - 2022.01.28 ~ 2022.02.28 데이콘 주최, 한국어 문장 관계 분류 대회 : 입상🎖
